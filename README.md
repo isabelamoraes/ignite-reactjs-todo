@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img alt="Web Application Demo" src="https://github.com/isabelamoraes/ignite-reactjs-todo/blob/main/demo/todo.gif?raw=true" width="100%">
+  <img alt="Web Application Demo" src="https://github.com/isabelamoraes/ignite-reactjs-todo/blob/main/demo/todo.gif?raw=true" width="90%">
 </p>
 
 ## Features
@@ -28,9 +28,9 @@ To clone and run this application, place from your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/isabelamoraes/ignite-reactjs-todo.git ignite-reactjs-todo
+$ git clone https://github.com/isabelamoraes/ignite-reactjs-todo.git
 
-# Go into the repository desired
+# Go into the repository
 $ cd ignite-reactjs-todo
 
 # Install dependencies
