@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img alt="Web Application Demo" src="https://github.com/isabelamoraes/ignite-reactjs-todo/blob/main/demo/todo.gif?raw=true" width="60%">
+  <img alt="Web Application Demo" src="https://github.com/isabelamoraes/ignite-reactjs-todo/blob/main/demo/todo.gif?raw=true" width="100%">
 </p>
 
 ## Features
